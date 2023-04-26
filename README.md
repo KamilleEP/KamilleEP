@@ -1,8 +1,8 @@
 ## Olá, me chamo Kamille mais conhecida como Mia!
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou estudando Programação na Alura
-- 🌱 Estou aprendendo o básico ainda, JavaScript, Html e começando no Python
+- 🔭 Atualmente estudando na UMC 
+- 🌱  Análise e desenvol de sistemas
 - 🤔 Aceito qualquer ajuda com os códigos, sou nova na área e estou aberta a aprender
 - 📫 Resido atualmente em SP/ZL
 
