@@ -1,4 +1,5 @@
-## Olá, me chamo Kamille mais conhecida como Mia!
+## Olá, me chamo Kamille
+## Sou Dev Junior
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estudando na UMC 
