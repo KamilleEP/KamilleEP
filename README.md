@@ -35,5 +35,5 @@
 
 ## Ensino
 
-<a href='https://www.umc.br'><img src="https://github.com/KamilleEP/KamilleEP/assets/100097893/466c3df9-9377-41e5-9ae5-f7841088c653" width="40px"></a>
-<img src='https://github.com/KamilleEP/KamilleEP/assets/100097893/717228bc-7ea0-49f4-8346-34741bd6dd18' width='40' /> <img src='https://github.com/KamilleEP/KamilleEP/assets/100097893/fc2a6bd8-aa51-4c0c-8fc3-a181524cdfa0' width='55px' heigth='55px'/>
+<a href='https://www.umc.br'><img src="https://cdn.discordapp.com/attachments/766448259492478985/1149472415437553714/8DELIBVjGh75QAAAAASUVORK5CYII.png" width="40px"></a>
+<a href='https://cursos.alura.com.br/user/kamilleeduardap'><img src='https://cdn.discordapp.com/attachments/766448259492478985/1149472900726915222/Z.png' width='40'></a> <a href='https://web.dio.me/users/Kamilleeduardap/?tab=skills'><img src='https://cdn.discordapp.com/attachments/766448259492478985/1149473339501445180/LOGO-DIO-COLOR.png' width='55px' heigth='55px'></a>
