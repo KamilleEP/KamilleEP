@@ -33,5 +33,6 @@
 
 
 
-##Ensino
-<img src=""
+## Ensino
+
+<img src="https://github.com/KamilleEP/KamilleEP/assets/100097893/466c3df9-9377-41e5-9ae5-f7841088c653" width="40px" /> <img src='https://github.com/KamilleEP/KamilleEP/assets/100097893/717228bc-7ea0-49f4-8346-34741bd6dd18' width='40' /> <img src='https://github.com/KamilleEP/KamilleEP/assets/100097893/fc2a6bd8-aa51-4c0c-8fc3-a181524cdfa0' width='55px' heigth='55px'/>
