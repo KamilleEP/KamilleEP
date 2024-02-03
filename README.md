@@ -6,7 +6,7 @@
 - 🌱  Análise e desenvolvimento de sistemas // 3 semestre
 - 🤔 DevOps/Back-End
 - 📫 Resido atualmente em SP/ZL
-- Estagiaria DevOps na CloudDog
+- 💼 Estagiaria DevOps na CloudDog
 
 ### Tech Stack
 
