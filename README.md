@@ -3,13 +3,15 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estudando na UMC 
-- 🌱  Análise e desenvolvimento de sistemas // 2 semestre
-- 🤔 Aceito qualquer ajuda com os códigos, sou nova na área e estou aberta a aprender
+- 🌱  Análise e desenvolvimento de sistemas // 3 semestre
+- 🤔 DevOps/Back-End
 - 📫 Resido atualmente em SP/ZL
+- Estagiaria DevOps na CloudDog
 
 ### Tech Stack
 
- <img alt='HTML' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'  width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width='45' height='45'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/> <img src='https://cdn.discordapp.com/attachments/766448259492478985/1149534866405335191/Git-Icon-1788C.png' width='40' height='40'/> <img src='https://cdn.discordapp.com/attachments/766448259492478985/1149534409939230730/1200px-Microsoft_Excel_2013-2019_logo.png' width='40' height='40'/> <img src='https://cdn.discordapp.com/attachments/766448259492478985/1149535638849343528/602px-Bootstrap_logo.png' alt='BootStrap' width='40' height='40'/>
+ <img alt='HTML' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'  width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width='45' height='45'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/> <img src='https://cdn.discordapp.com/attachments/766448259492478985/1149534866405335191/Git-Icon-1788C.png' width='40' height='40'/> <img src='https://cdn.discordapp.com/attachments/766448259492478985/1149534409939230730/1200px-Microsoft_Excel_2013-2019_logo.png' width='40' height='40'/> <img src='https://cdn.discordapp.com/attachments/766448259492478985/1149535638849343528/602px-Bootstrap_logo.png' alt='BootStrap' width='40' height='40'/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
+
 
           
 
