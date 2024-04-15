@@ -6,7 +6,7 @@
 - 🌱  Análise e desenvolvimento de sistemas // 3 semestre
 - 🤔 Full-Stack
 - 📫 Resido atualmente em SP/ZL
-- 💼 Estagiaria DevOps na CloudDog
+- 💼 Estagiaria IA Generativa na CloudDog
 
 ### Tech Stack
 
