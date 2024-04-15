@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando na UMC 
 - 🌱  Análise e desenvolvimento de sistemas // 3 semestre
-- 🤔 DevOps/Back-End
+- 🤔 Full-Stack
 - 📫 Resido atualmente em SP/ZL
 - 💼 Estagiaria DevOps na CloudDog
 
