@@ -1,4 +1,4 @@
-## Olá, me chamo Kamille                                                                                                                                                                      <img alt='HTML' src='[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://github.com/KamilleEP/KamilleEP/issues/1#issue-2152627355)'  width="40" />
+## Olá, me chamo Kamille                                                                                                                                                                      <img alt='HTML' 
 ## Sou Dev Junior
 ### Bem vindo ao meu perfil GitHub 👋
 
