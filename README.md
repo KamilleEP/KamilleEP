@@ -1,4 +1,4 @@
-## Olá, me chamo Kamille                                                                                                                                                                      <img alt='HTML' 
+## Olá, me chamo Kamille                                                                                                                                                            
 ## Sou Dev Junior
 ### Bem vindo ao meu perfil GitHub 👋
 
