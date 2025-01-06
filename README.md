@@ -2,11 +2,9 @@
 ## Sou Dev Junior
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estudando na UMC 
-- 🌱  Análise e desenvolvimento de sistemas // 3 semestre
+- 🌱  Análise e desenvolvimento de sistemas
 - 🤔 Full-Stack
 - 📫 Resido atualmente em SP/ZL
-- 💼 Estagiaria IA Generativa na CloudDog
 
 ### Tech Stack
 
