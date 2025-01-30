@@ -45,7 +45,4 @@
 
 
 
-## Ensino
 
-<a href='https://www.umc.br'><img src="https://cdn.discordapp.com/attachments/766448259492478985/1149472415437553714/8DELIBVjGh75QAAAAASUVORK5CYII.png" width="40px"></a>
-<a href='https://cursos.alura.com.br/user/kamilleeduardap'><img src='https://cdn.discordapp.com/attachments/766448259492478985/1149472900726915222/Z.png' width='40'></a> <a href='https://web.dio.me/users/Kamilleeduardap/?tab=skills'><img src='https://cdn.discordapp.com/attachments/766448259492478985/1149473339501445180/LOGO-DIO-COLOR.png' width='55px' heigth='55px'></a>
