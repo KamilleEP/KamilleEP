@@ -1,9 +1,10 @@
 ## Olá, me chamo Kamille                                                                                                                                                            
 ## Sou Dev Junior
+## GenAI Specialist
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🌱  Análise e desenvolvimento de sistemas
-- 🤔 Full-Stack
+- 📖  Análise e desenvolvimento de sistemas
+- 🤔 Back-end Dev, com foco em GenAI e Análise de dados
 - 📫 Resido atualmente em SP/ZL
 
 ### Tech Stack
@@ -14,8 +15,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" height="45" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-plain.svg" width="45" height="45" />
-          
-          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="45" height="45"/>
+
+### Certificações
+ ![Image](https://github.com/user-attachments/assets/116e7fd4-0168-429e-b5fb-3a0f98097520)    
           
             
           
